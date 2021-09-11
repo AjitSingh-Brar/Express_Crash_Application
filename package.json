@@ -1,0 +1,18 @@
+{
+  "name": "express_crash_course",
+  "version": "1.0.0",
+  "description": "An express crash course application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Ajit Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
+  }
+}
